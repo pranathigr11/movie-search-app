@@ -13,18 +13,22 @@ A professional, responsive React application built for movie enthusiasts. This a
 
 ## 📸 Screenshots
 
-> *Please ensure you have a folder named `screenshots` in your root directory containing these images.*
-
 ### 1. Home Page & Hero Banner
+
 *Features a dynamic Hero Banner that changes based on trending movies, plus a smart search bar and genre filters.*
+
 ![Home Page](./screenshots/home.png)
 
 ### 2. Top Rated by Language
+
 *A specialized feature to filter top 100 movies in English, Hindi, Kannada, Tamil, Malayalam, Spanish, and Turkish.*
+
 ![Top Rated Page](./screenshots/top-rated.png)
 
 ### 3. Favorites (Watchlist)
+
 *Users can save movies to a personal list. Data is persisted using LocalStorage.*
+
 ![Favorites Page](./screenshots/favorites.png)
 
 ---
