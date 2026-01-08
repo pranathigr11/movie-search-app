@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #111827; /* Dark gray background */
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; /* Prevents horizontal scrollbars */
+}
