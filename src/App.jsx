@@ -1,6 +1,6 @@
 
 
-import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { GlobalProvider } from './context/GlobalContext';
 import Home from './pages/Home';
 import Watchlist from './pages/Watchlist';
